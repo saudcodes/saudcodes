@@ -13,9 +13,9 @@
 - ⚡ Fun fact: I Love Exploring about Cryptocurrencies and the Blockchain Technology
 
 ### Connect with me:
-<div style="display: flex; flex-direction: row;">
 
-<p style="align-items: left;" align="left">
+
+<p style="align-items: left; display: flex; flex-direction: row;" align="left">
 <a href="https://linkedin.com/in/saudaijaz" target="blank"><img style="text-align: left;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saud" height="30" width="40" /></a>
 
 <a href="https://twitter.com/theCryptoSaud" target="blank"><img style="text-align: left;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saud" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 
 <a href="https://instagram.com/saud_aijaz" target="blank"><img style="text-align: left;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </p>
-</div>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
