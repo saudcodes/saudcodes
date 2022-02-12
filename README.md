@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-<p style="text-align: left;" align="left">
+<p style="align-items: left;" align="left">
 <a href="https://linkedin.com/in/saudaijaz" target="blank"><img style="text-align: left;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saud" height="30" width="40" /></a>
 
 <a href="https://twitter.com/theCryptoSaud" target="blank"><img style="text-align: left;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saud" height="30" width="40" /></a>
